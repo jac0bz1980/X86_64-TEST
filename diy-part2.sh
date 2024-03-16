@@ -34,6 +34,7 @@ git clone https://github.com/Leo-Jo-My/luci-theme-opentomcat.git package/luci-th
 git clone https://github.com/openwrt-develop/luci-theme-atmaterial.git package/luci-theme-atmaterial
 # Add luci-theme-argon
 git clone https://github.com/kiddin9/luci-app-dnsfilter.git package/luci-app-dnsfilter
+git clone https://github.com/chenmozhijin/luci-app-socat.git package/luci-app-socat
 
 #git clone https://github.com/garypang13/luci-app-bypass package/luci-app-bypass
 
